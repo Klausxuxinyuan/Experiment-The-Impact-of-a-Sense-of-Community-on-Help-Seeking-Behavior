@@ -1,1 +1,2 @@
-# Experiment-The-Impact-of-a-Sense-of-Community-on-Help-Seeking-Behavior
+
+Comtributor : Ishan Nagrani, XiaoQi He (Emily) , Abdullah Aljarallah, Xinyuan Xu (Klaus), Hengyuan Cao (Ken)
